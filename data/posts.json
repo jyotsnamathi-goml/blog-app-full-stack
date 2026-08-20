@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "slug": "introduction-to-nextjs",
+    "title": "Introduction to Next.js",
+    "excerpt": "Discover the power of Next.js, the React framework for building production-ready web applications with server-side rendering, routing, and optimization built-in.",
+    "content": "Next.js is a flexible React framework that gives you building blocks to create fast web applications. It handles the tooling and configuration needed for React, and provides additional structure, features, and optimizations for your application. In this post, we will explore some of the key features of Next.js, including its intuitive file-system routing system, client-side rendering, and server-side rendering capabilities. Whether you are building a simple portfolio or a complex web portal, Next.js provides the tools to build it efficiently.",
+    "author": "Jane Doe",
+    "date": "2026-08-10"
+  },
+  {
+    "id": "2",
+    "slug": "react-server-components",
+    "title": "React Server Components",
+    "excerpt": "Learn how React Server Components (RSC) revolutionize web development by allowing components to render on the server, resulting in faster load times and smaller bundle sizes.",
+    "content": "React Server Components represent a fundamental shift in how we build React applications. Historically, React applications were client-rendered, meaning the browser had to download the JavaScript bundle, run it, and render the DOM. With Server Components, parts of your application can be rendered on the server, and the resulting HTML is sent to the client. This significantly reduces the size of client-side bundles, speeds up the initial page load, and simplifies data fetching by doing it directly on the server.",
+    "author": "John Smith",
+    "date": "2026-08-12"
+  },
+  {
+    "id": "3",
+    "slug": "typescript-basics",
+    "title": "TypeScript Basics",
+    "excerpt": "Get started with TypeScript, the typed superset of JavaScript that adds static types to help you write cleaner, more maintainable code with fewer bugs.",
+    "content": "TypeScript has quickly become the industry standard for modern web development. By adding static types on top of JavaScript, it helps catch bugs early in the development lifecycle and provides excellent autocomplete support in modern editors. In this guide, we'll cover basic types like string, number, and boolean, interface definitions, optional properties, and how TypeScript's compiler checks our code to prevent runtime errors.",
+    "author": "Alice Johnson",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "4",
+    "slug": "modern-web-development",
+    "title": "Modern Web Development",
+    "excerpt": "Explore the trends, tooling, and best practices defining modern web development in 2026, from build engines to CSS architectures.",
+    "content": "Web development is evolving faster than ever. Modern workflows rely on ultra-fast build tools like Vite and Turbopack, modern CSS paradigms like CSS modules or Tailwind CSS, and headless API setups. In this post, we will dissect what it means to build a modern web application today. We'll cover responsiveness, accessibility, performance optimization, and why choosing the right toolchain makes a significant difference for user experience.",
+    "author": "Bob Martin",
+    "date": "2026-08-17"
+  },
+  {
+    "id": "5",
+    "slug": "building-applications-nextjs-app-router",
+    "title": "Building Applications with the Next.js App Router",
+    "excerpt": "A deep dive into building applications with the Next.js App Router, covering layouts, nested routes, loading states, and error handling.",
+    "content": "The Next.js App Router is a new model for building applications using React's latest features, including Server Components and Suspense. It supports layouts, nested routing, loading states, and custom error boundaries out-of-the-box. This structure makes it easy to construct complex multi-page applications with clean separation of concerns. In this article, we walk through building a structured app router project from scratch.",
+    "author": "Emma Watson",
+    "date": "2026-08-19"
+  }
+]
